@@ -1,25 +1,13 @@
 {
-  "name": "jack_server.js",
+  "name": "session",
   "version": "1.0.0",
-  "description": "My first code",
-  "main": "index.js",
+  "description": "This is a simple express server for demostration purposes",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon app.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jaswant2111058/jaswant-code.git"
-  },
-  "author": "Jassi",
+  "author": "Gracy",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/jaswant2111058/jaswant-code/issues"
-  },
-  "homepage": "https://github.com/jaswant2111058/jaswant-code#readme",
-  "keywords": [
-    "sinmple",
-    "server"
-  ],
   "dependencies": {
     "express": "^4.18.2"
   }
