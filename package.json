@@ -1,0 +1,26 @@
+{
+  "name": "jack_server.js",
+  "version": "1.0.0",
+  "description": "My first code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaswant2111058/jaswant-code.git"
+  },
+  "author": "Jassi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaswant2111058/jaswant-code/issues"
+  },
+  "homepage": "https://github.com/jaswant2111058/jaswant-code#readme",
+  "keywords": [
+    "sinmple",
+    "server"
+  ],
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
